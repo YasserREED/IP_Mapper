@@ -1,8 +1,9 @@
 # IP_Mapper
-This Tool can help enginners and biggener in network, the tool help you to find of any ip with subnet mask that can calucate them and show you: 
+This Tool can help enginners and biggener in network, the tool help you to find of any ip with subnet mask that can calucate them.
 
-1-***Availble IP's ***/n
-2-***Subnet Mask*** \n
+#### Tool Will Show you:
+1-***Availble IP's***
+2-***Subnet Mask*** 
 3-***Network-ID***
 4-***Broadcast-ID*** 
 
