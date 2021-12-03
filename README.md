@@ -4,7 +4,7 @@ This Tool can help enginners and biggener in network, the tool help you to find 
 
 ## Downlaod IP_Mapper
 
-### Download by this Link
+### Copy this Link
 > sudo git clone https://github.com/YasserREED/IP_Mapper.git 
 
 ### Enter The File
