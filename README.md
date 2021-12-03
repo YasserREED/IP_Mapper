@@ -13,4 +13,4 @@ This Tool can help enginners and biggener in network, the tool help you to find 
 > ***cd IP_Mapper/***
 
 ### open the tool by python3
-> ***python3 IP_MApper.p***
+> ***python3 IP_MApper.py***
